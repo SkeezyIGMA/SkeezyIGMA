@@ -4,4 +4,5 @@
 - 📫 How to reach me artem13062001@gmail.com
 
 
-[Резюме.pdf](https://github.com/SkeezyIGMA/SkeezyIGMA/files/7182039/default.pdf)
+[Резюме.pdf](https://github.com/SkeezyIGMA/SkeezyIGMA/files/7774700/default.pdf)
+
