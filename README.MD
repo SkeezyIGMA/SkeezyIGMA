@@ -3,6 +3,4 @@
 - 🌱 I’m currently learning java, c++
 - 📫 How to reach me artem13062001@gmail.com
 
-
-[Резюме.pdf](https://github.com/SkeezyIGMA/SkeezyIGMA/files/7774700/default.pdf)
-
+[Резюме Артём Тихонов.pdf](https://github.com/SkeezyIGMA/SkeezyIGMA/files/9772357/default.pdf)
